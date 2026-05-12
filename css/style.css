@@ -9,6 +9,12 @@ h1, p {
     color: #333;
 }
 
+img {
+    display: block;
+    margin: 20px auto;
+    background-color: transparent;
+}
+
 #categoryInput {
     width: 100%;
     max-width: 400px;
